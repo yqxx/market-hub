@@ -1,0 +1,20 @@
+# Java
+**/target/
+**/.mvn/wrapper/maven-wrapper.jar
+server/data/
+
+# Node
+**/node_modules/
+**/dist/
+**/.vite/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Env
+**/.env.local
+**/.env.*.local
